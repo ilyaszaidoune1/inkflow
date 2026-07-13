@@ -10,6 +10,11 @@ venv/
 # Environment variables
 .env
 
+# Build files
+build/
+dist/
+*.egg-info/
+
 # IDEs
 .vscode/
 .idea/
